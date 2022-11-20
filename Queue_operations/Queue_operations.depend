@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668768182 source:c:\users\vivek\onedrive\desktop\lds\queue_operations\main.c
+	<stdio.h>
+	<stdlib.h>
+
